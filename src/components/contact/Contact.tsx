@@ -9,6 +9,7 @@ const Contact = () => {
 
     return(
         <div>
+            Contact Me
             <SocialMediaLinks/>
         </div>
 
